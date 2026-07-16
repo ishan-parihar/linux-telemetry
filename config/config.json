@@ -1,0 +1,16 @@
+{
+  "poll_interval": 2.0,
+  "idle_threshold": 300,
+  "track_x11": true,
+  "track_browser_history": true,
+  "track_kde_directories": true,
+  "track_processes": true,
+  "track_desktop_launches": true,
+  "browser_history_interval": 300,
+  "kde_directory_interval": 30,
+  "process_scan_interval": 60,
+  "retention_days": 90,
+  "batch_size": 50,
+  "flush_interval": 10.0,
+  "browser_db_copy_timeout": 5.0
+}
